@@ -1,3 +1,0 @@
-# quiz-sockets-linux-C
-
-...
